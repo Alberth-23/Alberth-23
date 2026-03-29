@@ -164,76 +164,56 @@ Proyecto de gestión con enfoque fullstack, pensado como solución moderna para 
 
 ## 🚀 Stack Tecnológico
 
-### 💻 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,php" />
-</p>
+<div align="center">
 
-- Java *(Swing, sistemas de escritorio)*
-- Python *(APIs y backend web)*
-- Node.js *(APIs modernas)*
-- PHP *(en aprendizaje)*
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Backend+Development;Frontend+Development;Databases;Automation+Tools;Business-Focused+Technology" />
 
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
-</p>
+</div>
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-
-### 🧠 Lenguajes
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php" />
-</p>
-
-- Java
-- Python
-- JavaScript
-- TypeScript
-- PHP
-
-### 🗄️ Bases de datos
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-</p>
-
-- MySQL
-- MariaDB
-- PostgreSQL
-
-### 🧩 CMS / Herramientas modernas
-<p>
-  <img src="https://img.shields.io/badge/Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
-</p>
-
-- Payload CMS
-
-### ⚙️ Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
-</p>
-
-- Git
-- GitHub
-- NetBeans
-- VS Code
-
-### 🐧 Sistemas
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,arch" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
-
-- Linux
-- Arch Linux
-- Kali Linux
----
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Backend</h3>
+      <img src="https://skillicons.dev/icons?i=java,python,nodejs,php&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🧠 Lenguajes</h3>
+      <img src="https://skillicons.dev/icons?i=java,python,js,ts,php&theme=dark" />
+    </td>
+    <td align="center">
+      <h3>🗄️ Bases de datos</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🧩 CMS / Modern Tools</h3>
+      <img src="https://img.shields.io/badge/Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
+    </td>
+    <td align="center">
+      <h3>⚙️ Herramientas</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🐧 Sistemas</h3>
+      <img src="https://skillicons.dev/icons?i=linux,arch&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
