@@ -1,19 +1,28 @@
+<!-- README PORTAFOLIO · Luis Rosales Abad -->
 
-<!-- PORTADA -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e293b,60:2563eb,100:06b6d4&text=Luis%20Rosales%20Abad&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Desarrollo%20de%20software%20%7C%20Automatizaci%C3%B3n%20%7C%20Soluciones%20para%20negocios&descAlignY=58&animation=fadeIn" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1220,25:111827,55:1d4ed8,100:06b6d4&text=Luis%20Rosales%20Abad&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Developer%20%7C%20Automation%20%7C%20Business%20Solutions&descAlignY=58&animation=fadeIn" alt="banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+e+Inform%C3%A1tica;Construyo+soluciones+que+automatizan+procesos+y+optimizan+negocios;Java+%7C+Python+%7C+Web+%7C+IA+%7C+Automatizaci%C3%B3n;Tecnolog%C3%ADa+con+enfoque+real+en+ventas+y+productividad" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=980&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas+e+Inform%C3%A1tica;Desarrollo+software+que+automatiza+procesos+y+optimiza+negocios;Java+%7C+Python+%7C+Node.js+%7C+React+%7C+Next.js;Technology+with+real+business+impact" alt="typing animation" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Per%C3%BA-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Enfoque-Software%20%2B%20Automatizaci%C3%B3n-1d4ed8?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Estado-Disponible%20para%20oportunidades-06b6d4?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-<img src="https://img.shields.io/badge/Meta-Crear%20soluciones%20que%20generen%20impacto-0f766e?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Per%C3%BA-Base-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Software%20%2B%20Automation-1d4ed8?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-06b6d4?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+<img src="https://img.shields.io/badge/Goal-Build%20useful%20tech%20for%20businesses-0f766e?style=for-the-badge&logo=target&logoColor=white" />
+
+<br/><br/>
+
+<a href="mailto:rluisabad@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rluisabad%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Alberth-23">
+  <img src="https://img.shields.io/badge/GitHub-Alberth--23-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -21,23 +30,27 @@
 
 # 👨‍💻 Luis Rosales Abad
 
-### **Estudiante de Ingeniería de Sistemas e Informática**
-### **Desarrollador enfocado en software, automatización y soluciones para negocios**
+### 🇪🇸 Desarrollador enfocado en software, automatización y soluciones para negocios  
+### 🇺🇸 Developer focused on software, automation and business solutions  
+### 🇮🇱 מפתח תוכנה עם מיקוד באוטומציה ופתרונות לעסקים
 
 > **“No solo desarrollo software: construyo soluciones tecnológicas que ahorran tiempo, aumentan ventas y convierten procesos manuales en sistemas eficientes.”**
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí | About me | עליי
 
-Soy **Luis Rosales Abad**, de **Perú**, y estoy enfocado en crear soluciones tecnológicas que ayuden a negocios e instituciones a trabajar mejor, vender más y optimizar sus procesos.
+### 🇪🇸
+Soy **Luis Rosales Abad**, de **Perú**, estudiante de **Ingeniería de Sistemas e Informática**.  
+Me enfoco en crear soluciones tecnológicas que ayuden a negocios e instituciones a trabajar mejor, vender más y optimizar procesos.
 
-Me interesa especialmente el desarrollo de sistemas, la automatización y la aplicación práctica de la tecnología para resolver problemas reales.
+### 🇺🇸
+I am **Luis Rosales Abad** from **Peru**, a **Systems and Informatics Engineering** student.  
+I focus on building tech solutions that help businesses work better, sell more and optimize processes.
 
-🔹 Desarrollo software con enfoque funcional y orientado al usuario  
-🔹 Creo sistemas para ventas, gestión y administración  
-🔹 Exploro automatización con IA para negocios digitales  
-🔹 Busco oportunidades donde pueda aportar valor con tecnología útil  
+### 🇮🇱
+אני **Luis Rosales Abad** מ־**פרו**, סטודנט ל־**הנדסת מערכות ומידע**.  
+אני מתמקד בבניית פתרונות טכנולוגיים שעוזרים לעסקים לעבוד טוב יותר, למכור יותר ולשפר תהליכים.
 
 ---
 
@@ -48,13 +61,13 @@ Me interesa especialmente el desarrollo de sistemas, la automatización y la apl
 <td width="50%">
 
 ### ⚙️ Automatización de procesos
-Puedo ayudarte a reducir tareas repetitivas mediante software y automatizaciones que ahorran tiempo y mejoran la operación.
+Transformo tareas manuales en flujos más rápidos y eficientes mediante software, lógica de negocio y automatizaciones.
 
 </td>
 <td width="50%">
 
 ### 🛒 Sistemas para ventas y gestión
-Desarrollo soluciones para controlar productos, stock, pedidos, clientes y operaciones comerciales.
+Desarrollo soluciones para controlar productos, stock, ventas, pedidos y operaciones comerciales.
 
 </td>
 </tr>
@@ -62,14 +75,14 @@ Desarrollo soluciones para controlar productos, stock, pedidos, clientes y opera
 <tr>
 <td width="50%">
 
-### 🤖 Bots y automatización con IA
-Trabajo en soluciones para WhatsApp, Instagram y Telegram orientadas a atención, marketing y ventas.
+### 🌐 Soluciones web funcionales
+Creo sistemas web orientados a experiencia de usuario, presencia profesional y necesidades reales del negocio.
 
 </td>
 <td width="50%">
 
-### 📈 Tecnología con enfoque en resultados
-No se trata solo de programar: se trata de construir herramientas que optimicen el negocio y generen impacto real.
+### 🤖 Tecnología con impacto
+Mi enfoque no es solo programar, sino construir herramientas útiles que aporten orden, productividad y crecimiento.
 
 </td>
 </tr>
@@ -79,120 +92,144 @@ No se trata solo de programar: se trata de construir herramientas que optimicen 
 
 ## 🧩 Proyectos destacados
 
-### 🛍️ 1. Sistema de Ventas
+## 🛍️ 1. Sistema de gestión para negocios con facturación
 **Java + Base de Datos**
 
-Sistema desarrollado para pequeños y medianos negocios, orientado a mejorar el control de ventas y productos.
+Sistema orientado a pequeños y medianos negocios para mejorar el control comercial, la facturación y la administración de productos.
 
-**Incluye:**
-- Gestión de productos
-- Control de stock automático
+**Valor para negocio**
+- Control centralizado de productos
+- Gestión de stock automática
 - Registro de ventas
 - Cálculo de pagos y vuelto
-- Interfaz gráfica moderna
-- Enfoque práctico para negocios reales
+- Base sólida para procesos comerciales más ordenados
+- Pensado para mejorar eficiencia operativa
 
-**Demo / Preview**
-<br/>
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%" alt="demo sistema ventas"/>
+### Vista previa
+<img src="https://raw.githubusercontent.com/Alberth-23/POS-INVENTRIO-JAVA/main/screenshots/pos.png" alt="Sistema de ventas con facturación" width="100%">
 
-**Enlaces**
-- 🔗 [Repositorio](#)
-- 🖼️ [Capturas / Demo](#)
+**Enlace**
+- 🔗 [Ver repositorio](https://github.com/Alberth-23/POS-INVENTRIO-JAVA)
 
 ---
 
-### 🎓 2. Sistema Estudiantil
-**Java Swing + Base de Datos**
+## 🍽️ 2. Server Restauran
+**Backend / Server-side**
 
-Sistema completo para administración académica con acceso controlado por roles.
+Proyecto orientado a lógica de servidor para soluciones relacionadas con restaurantes, pedidos o gestión operativa.
 
-**Incluye:**
-- Gestión de estudiantes
-- Registro de notas
-- Control de asistencias
-- Matrículas
-- Roles de administrador y usuario
-- Conexión completa a base de datos
+**Aporte**
+- Base para sistemas de atención y pedidos
+- Lógica backend para procesos del negocio
+- Estructura útil para futuras integraciones web o móviles
 
-**Demo / Preview**
-<br/>
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="demo sistema estudiantil"/>
-
-**Enlaces**
-- 🔗 [Repositorio](#)
-- 🖼️ [Capturas / Demo](#)
+**Enlace**
+- 🔗 [Ver repositorio](https://github.com/Alberth-23/server-resturant)
 
 ---
 
-### 🌐 3. Sistema Web de Ventas
-**HTML + Python**
+## 🦷 3. Web Odontología
+**HTML + Web Development**
 
-Solución web para pedidos online enfocada en restaurantes, tiendas y negocios que buscan vender de forma digital.
+Sitio o sistema web orientado al sector odontológico, con enfoque en presencia digital y estructura profesional.
 
-**Incluye:**
-- Registro de pedidos online
-- Backend en Python
-- Estructura web adaptable
-- Pensado para comercio digital
-- Orientado a experiencia rápida y funcional
+**Aporte**
+- Solución web para rubro salud
+- Presentación clara de servicios
+- Base ideal para digitalizar atención y visibilidad online
 
-**Demo / Preview**
-<br/>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="demo sistema web"/>
-
-**Enlaces**
-- 🔗 [Repositorio](#)
-- 🖼️ [Capturas / Demo](#)
+**Enlace**
+- 🔗 [Ver repositorio](https://github.com/Alberth-23/web-odontologia)
 
 ---
 
-### 🤖 4. Automatización con IA *(En desarrollo)*
-**Bots + Automatización + Marketing digital**
+## 🧠 4. Sistema de Gestión con Payload
+**Fullstack + Payload CMS**
 
-Proyecto orientado a crear asistentes automatizados para negocios y modelos de venta digital.
+Proyecto de gestión con enfoque fullstack, pensado como solución moderna para administración de información y operaciones.
 
-**Enfoque actual:**
-- Bots para WhatsApp
-- Bots para Instagram
-- Bots para Telegram
-- Automatización de respuestas
-- Marketing digital
-- Enfoque en negocios y dropshipping
+**Aporte**
+- Arquitectura moderna
+- Enfoque de gestión y escalabilidad
+- Base para paneles administrativos y soluciones empresariales
 
-**Demo / Preview**
-<br/>
-<img src="https://media.giphy.com/media/3o7TKsQ8UQ3S8GJ8n6/giphy.gif" width="100%" alt="demo automatizacion ia"/>
+### Vista previa
+<img src="https://raw.githubusercontent.com/Alberth-23/prueba-fullstack-payload/main/docs/admin-dashboard.png" alt="Sistema de gestión con Payload" width="100%">
 
-**Enlaces**
-- 🔗 [Repositorio](#)
-- 🗺️ [Roadmap](#)
+**Enlace**
+- 🔗 [Ver repositorio](https://github.com/Alberth-23/prueba-fullstack-payload)
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🚀 Stack Tecnológico
 
-### Lenguajes
+### 💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,php" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs" />
 </p>
 
-### Bases de datos
+- Java *(Swing, sistemas de escritorio)*
+- Python *(APIs y backend web)*
+- Node.js *(APIs modernas)*
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</p>
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+
+### 🧠 Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+</p>
+
+- Java
+- Python
+- JavaScript
+- TypeScript
+
+### 🗄️ Bases de datos
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
-### Herramientas
+- MySQL
+- MariaDB
+- PostgreSQL
+
+### 🧩 CMS / Herramientas modernas
+<p>
+  <img src="https://img.shields.io/badge/Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white" />
+</p>
+
+- Payload CMS
+
+### ⚙️ Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" />
 </p>
 
-### Sistemas
+- Git
+- GitHub
+- NetBeans
+- VS Code
+
+### 🐧 Sistemas
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,arch,kali" />
+  <img src="https://skillicons.dev/icons?i=linux,arch" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
+
+- Linux
+- Arch Linux
+- Kali Linux
 
 ---
 
@@ -200,16 +237,16 @@ Proyecto orientado a crear asistentes automatizados para negocios y modelos de v
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alberth-23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberth-23&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true&border_radius=16" />
+<img src="https://streak-stats.demolab.com?user=Alberth-23&theme=tokyonight&hide_border=true&border_radius=16" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU-USUARIO&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alberth-23&theme=tokyonight" />
 
 </div>
 
@@ -217,22 +254,26 @@ Proyecto orientado a crear asistentes automatizados para negocios y modelos de v
 
 ## 🎯 Objetivo profesional
 
-Mi objetivo es claro:
+### 🇪🇸
+Crear soluciones tecnológicas que automaticen procesos, aumenten ventas y optimicen negocios.
 
-> **Crear soluciones tecnológicas que automaticen procesos, aumenten ventas y optimicen negocios.**
+### 🇺🇸
+Build technology solutions that automate processes, increase sales and optimize businesses.
 
-Quiero seguir creciendo en proyectos donde la tecnología no sea solo código, sino una herramienta real para generar eficiencia, orden y resultados.
+### 🇮🇱
+לבנות פתרונות טכנולוגיים שמבצעים אוטומציה לתהליכים, מגדילים מכירות ומשפרים עסקים.
 
 ---
 
-## 🌟 Perfil ideal para colaborar en:
+## 🌟 En qué tipo de proyectos puedo aportar
 
-- Desarrollo de sistemas de escritorio o web
-- Soluciones para ventas y gestión de negocios
+- Sistemas de ventas y facturación
+- Soluciones de gestión para negocios
+- Desarrollo backend y lógica de servidor
+- Aplicaciones web con enfoque práctico
 - Automatización de procesos
-- Integraciones con bots y mensajería
-- Herramientas para negocios digitales
-- Proyectos de software con enfoque práctico y escalable
+- Herramientas digitales orientadas a productividad
+- Proyectos tecnológicos con visión de negocio
 
 ---
 
@@ -241,22 +282,16 @@ Quiero seguir creciendo en proyectos donde la tecnología no sea solo código, s
 <div align="center">
 
 ### ¿Buscas a alguien que convierta una necesidad en una solución tecnológica?
-
-Estoy abierto a colaborar en proyectos, oportunidades laborales, prácticas, freelance o ideas tecnológicas con impacto real.
+### Looking for someone who can turn a need into a real tech solution?
+### מחפש מישהו שיכול להפוך צורך לפתרון טכנולוגי אמיתי?
 
 <br/>
 
-<a href="mailto:tu-correo@ejemplo.com">
+<a href="mailto:rluisabad@gmail.com">
   <img src="https://img.shields.io/badge/Email-Cont%C3%A1ctame-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/TU-USUARIO">
+<a href="https://github.com/Alberth-23">
   <img src="https://img.shields.io/badge/GitHub-Ver%20perfil-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/TU-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://wa.me/TU-NUMERO">
-  <img src="https://img.shields.io/badge/WhatsApp-Escribirme-22c55e?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
@@ -265,9 +300,10 @@ Estoy abierto a colaborar en proyectos, oportunidades laborales, prácticas, fre
 
 <div align="center">
 
-### ⚡ Tecnología con visión de negocio
-### ⚡ Software útil, automatización inteligente y soluciones reales
+### ⚡ Tecnología con visión de negocio  
+### ⚡ Useful software, smart automation and real solutions  
+### ⚡ טכנולוגיה עם חזון עסקי
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:2563eb,100:0f172a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:2563eb,100:0b1220" />
 
 </div>
