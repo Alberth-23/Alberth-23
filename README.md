@@ -161,16 +161,18 @@ Proyecto de gestión con enfoque fullstack, pensado como solución moderna para 
 
 ---
 
+
 ## 🚀 Stack Tecnológico
 
 ### 💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,php" />
 </p>
 
 - Java *(Swing, sistemas de escritorio)*
 - Python *(APIs y backend web)*
 - Node.js *(APIs modernas)*
+- PHP *(en aprendizaje)*
 
 ### 🌐 Frontend
 <p>
@@ -185,13 +187,14 @@ Proyecto de gestión con enfoque fullstack, pensado como solución moderna para 
 
 ### 🧠 Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php" />
 </p>
 
 - Java
 - Python
 - JavaScript
 - TypeScript
+- PHP
 
 ### 🗄️ Bases de datos
 <p>
@@ -230,7 +233,6 @@ Proyecto de gestión con enfoque fullstack, pensado como solución moderna para 
 - Linux
 - Arch Linux
 - Kali Linux
-
 ---
 
 ## 📊 GitHub Stats
